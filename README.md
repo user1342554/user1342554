@@ -1,56 +1,25 @@
-# Hi, I'm Jonas Neubauer!
+# Jonas Neubauer
 
-Student developer building Android apps, game-server tools, and software for education.
+I'm a student near Frankfurt.
 
-[Email](mailto:jonaspaul.neubauer@gmail.com) · [All repositories](https://github.com/user1342554?tab=repositories)
+Currently working on **LimbVolScanner**, an experimental iPhone app
+that uses LiDAR to estimate limb volume for plastic surgery.
 
-<p>
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-python.svg" width="86" height="30" alt="Python">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-kotlin.svg" width="82" height="30" alt="Kotlin">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-csharp.svg" width="58" height="30" alt="C#">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-android.svg" width="96" height="30" alt="Android">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-windows.svg" width="104" height="30" alt="Windows">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-streamlit.svg" width="104" height="30" alt="Streamlit">
-  <img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/badge-git.svg" width="60" height="30" alt="Git">
-</p>
+## Projects
 
----
+[GestureLink](https://github.com/user1342554/GestureLink)
 
-## Featured projects
+Control your Windows mouse with hand movements tracked by an Android phone.
+Built with Eddy at Cursor Frankfurt Build Day — we won first place.
 
-<table width="100%">
-  <tr>
-    <td width="80" align="center">
-      <a href="https://github.com/user1342554/GestureLink"><img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/gesture.svg" width="56" height="56" alt="GestureLink"></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/user1342554/GestureLink">GestureLink</a></h3>
-      <p><strong>1st place · 3-hour hackathon</strong></p>
-      <p>Control a Windows PC with hand gestures using an Android phone. Hand detection runs on the phone.</p>
-    </td>
-  </tr>
-</table>
+[Klassenbildung](https://github.com/user1342554/klassenbildung-go-local)
 
-<table width="100%">
-  <tr>
-    <td width="80" align="center">
-      <a href="https://github.com/user1342554/TABG-Server-Installer"><img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/server.svg" width="56" height="56" alt="TABG Server Installer"></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/user1342554/TABG-Server-Installer">TABG Server Installer</a></h3>
-      <p>One-click setup and management for Totally Accurate Battlegrounds dedicated servers, with configuration tools and plugin support.</p>
-    </td>
-  </tr>
-</table>
+I made this for my school to help assign students to classes using Excel data.
+It runs locally.
 
-<table width="100%">
-  <tr>
-    <td width="80" align="center">
-      <a href="https://github.com/user1342554/klassenbildung-go-local"><img src="https://raw.githubusercontent.com/user1342554/user1342554/main/assets/school.svg" width="56" height="56" alt="Klassenbildung"></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/user1342554/klassenbildung-go-local">Klassenbildung</a></h3>
-      <p>Built for my school to organize classes from Excel data. Runs locally and makes class planning easier.</p>
-    </td>
-  </tr>
-</table>
+[TABG Server Installer](https://github.com/user1342554/TABG-Server-Installer)
+
+A tool for setting up and managing Totally Accurate Battlegrounds servers,
+including settings and mods.
+
+[Email](mailto:jonaspaul.neubauer@gmail.com)
