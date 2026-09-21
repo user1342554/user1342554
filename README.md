@@ -1,25 +1,37 @@
-# Jonas Neubauer
+# Hi, I'm Jonas Neubauer
 
-I'm a student near Frankfurt.
+I'm a student developer near Frankfurt. I like building practical software for school, games, and experiments.
 
-Currently working on **LimbVolScanner**, an experimental iPhone app
-that uses LiDAR to estimate limb volume for plastic surgery.
+I enjoy turning ideas into working projects, learning new tools, and finding simple solutions to real problems. Most of my projects are built in my free time, usually somewhere between school, games, and random ideas.
+
+---
+
+## Currently building
+
+**LimbVolScanner** — an experimental iPhone app that uses LiDAR to estimate limb volume for plastic surgery.  
+Exploring computer vision, health tech, and iOS development.
+
+---
 
 ## Projects
 
-[GestureLink](https://github.com/user1342554/GestureLink)
+### [GestureLink](https://github.com/user1342554/GestureLink)
 
-Control your Windows mouse with hand movements tracked by an Android phone.
+Control a Windows PC with hand movements tracked by an Android phone.  
 Built with Eddy at Cursor Frankfurt Build Day — we won first place.
 
-[Klassenbildung](https://github.com/user1342554/klassenbildung-go-local)
+### [Klassenbildung](https://github.com/user1342554/klassenbildung-go-local)
 
-I made this for my school to help assign students to classes using Excel data.
-It runs locally.
+I made this for my school to help assign students to classes using Excel data. It runs locally.
 
-[TABG Server Installer](https://github.com/user1342554/TABG-Server-Installer)
+### [TABG Server Installer](https://github.com/user1342554/TABG-Server-Installer)
 
-A tool for setting up and managing Totally Accurate Battlegrounds servers,
-including settings and mods.
+A tool for setting up and managing Totally Accurate Battlegrounds servers, including settings and mods.
 
-[Email](mailto:jonaspaul.neubauer@gmail.com)
+---
+
+## Get in touch
+
+Feel free to reach out via email: [jonaspaul.neubauer@gmail.com](mailto:jonaspaul.neubauer@gmail.com).
+
+I'm always open to interesting projects, collaboration, or just a chat!
