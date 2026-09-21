@@ -40,6 +40,4 @@ I'm always open to interesting projects, collaboration, or just a chat!
 
 ## Contributions
 
-[![Jonas Neubauer's GitHub contribution calendar](https://ghchart.rshah.org/user1342554)](https://github.com/user1342554?tab=overview)
-
 [View my GitHub activity](https://github.com/user1342554?tab=overview)
